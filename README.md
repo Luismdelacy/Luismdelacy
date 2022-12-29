@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Luismdelacy
-- 👀 I’m interested in Technology and Cybersecurity
-- 🌱 I’m currently learning CyberSecurity
-- 📫 How to reach me luisdelacydiaz@gmail.com
+- 👋 Hola soy Luismdelacy
+- 👀 Me gusta la tecnología y en especial la ciberseguridad
+- 🌱 Actualmente estudio ciberseguridad
+- 🌍 Dirigo mi propia web sobre ciberseguridad ciberseguridadtech.com
+- 📫 Puedes contactarme en ciberseguridadtech@gmail.com
